@@ -12,6 +12,8 @@ public:
 };
 
 /*
-time complexity: log(H) H -> height of the tree
+time complexity: log(H)The number of nodes in the tree is between 1 and 1000.
+node.val is 0 or 1.
+The answer will not exceed 2^31 - 1.e tree
 space complexity: O(1)
 */
